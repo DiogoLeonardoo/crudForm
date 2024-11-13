@@ -1,3 +1,24 @@
+# Projeto CRUD de Alunos
+
+Este é um projeto de exemplo que implementa um CRUD (Create, Read, Update, Delete) de alunos utilizando React no frontend e Spring Boot no backend.
+
+## Tecnologias Utilizadas
+
+- **Frontend**: React, Vite, Formik, Yup, Axios, Tailwind CSS
+- **Backend**: Spring Boot, Spring Data JPA, Hibernate, PostgreSQL
+
+## Pré-requisitos
+
+- Node.js
+- Java 11 ou superior
+- PostgreSQL
+
+## Configuração do Backend
+
+1. Clone o repositório do backend:
+   ```sh
+   git clone https://github.com/seu-usuario/seu-repositorio-backend.git
+   cd seu-repositorio-backend
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
